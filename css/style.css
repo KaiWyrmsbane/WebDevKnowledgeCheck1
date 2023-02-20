@@ -245,6 +245,16 @@ a:hover, a:active {
     line-height: 1.5;
 }
 
+.Contact-content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Contact-content > a {
+    padding: 3em;
+}
+
 section h2 {
     font-family: 'Roboto Condensed', sans-serif;
     font-size: 48px;
